@@ -2,4 +2,4 @@
 
 New line
 
-MY feature
+MY feature 2
