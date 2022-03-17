@@ -5,4 +5,5 @@ New line
 Other change
 Local line
 
-Remote change
+Local change
+Remote edited
